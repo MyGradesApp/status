@@ -1,4 +1,4 @@
 {
-	"Status": "Down",
-	"Message": "SwiftGrade is currently unavailable due to issues with SIS"
+	"status": "Down",
+	"message": "SwiftGrade may be currently unavailable due to issues with SIS"
 }
